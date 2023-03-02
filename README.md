@@ -36,7 +36,9 @@ Complexity of the algorithm that are used in building are divided into two parts
 - **Extras:** To make the game more engaging, you may provide hints if the user is stuck for like 10-20 seconds.
 
 ## Deadline:
-The deadline of the above task is 7th March.
+The deadline of the above task is:
+- 7th March. [First Yearites] 
+- 11th March [Second Yearites] 
 
 ## Instructions to Submit
 
